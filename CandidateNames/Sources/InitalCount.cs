@@ -1,9 +1,9 @@
 ﻿using System;
 namespace CandidateNames.Sources
 {
-    public class Applicant
+    public class InitalCount
     {
-        public Applicant()
+        public InitalCount()
         {
         }
     }
